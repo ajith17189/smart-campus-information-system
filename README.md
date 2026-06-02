@@ -131,7 +131,7 @@ Displays:
 
 ## Author
 
-Teja Sriram
+Ajith Reddy
 
 ---
 
